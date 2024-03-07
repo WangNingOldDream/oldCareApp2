@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_state"
+        android:icon="@drawable/ic_state_black_24dp"
+        android:title="近态" />
+
+    <item
+        android:id="@+id/menu_time"
+        android:icon="@drawable/ic_time_black_24dp"
+        android:title="定时" />
+    <item
+        android:id="@+id/menu_exam"
+        android:icon="@drawable/ic_exam_black_24dp"
+        android:title="体检" />
+    <item
+        android:id="@+id/menu_people"
+        android:icon="@drawable/ic_people_black_24dp"
+        android:title="我的" />
+</menu>
